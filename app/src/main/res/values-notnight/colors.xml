@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Task Done -->
+    <color name="task_done_bg">#18120C</color>
+    <color name="task_done_title">#F5F5F5</color>
+    <color name="task_done_subtitle">#BDBDBD</color>
+
+    <!-- Quadrant -->
+    <color name="quad_bg_1">#3E2723</color>
+    <color name="quad_bg_2">#4E342E</color>
+    <color name="quad_bg_3">#2D1B18</color>
+    <color name="quad_bg_4">#3B231E</color>
+    <color name="quad_text_title">#FFFFFF</color>
+    <color name="quad_text_desc">#E0E0E0</color>
+
+    <!-- Article -->
+    <color name="article_bg">#1F1610</color>
+    <color name="article_text">#EDE0D4</color>
+
+    <!-- Business Card -->
+    <color name="business_bg">#030C1C</color>
+    <color name="business_name">#2CD787</color>
+    <color name="business_title">#FFFFFF</color>
+    <color name="business_contact_text">#44DF92</color>
+    <color name="business_icon">#44DF92</color>
+</resources>
