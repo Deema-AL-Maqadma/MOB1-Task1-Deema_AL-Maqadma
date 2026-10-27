@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.activity_birthday_card);
         //setContentView(R.layout.activity_task_done);
-        setContentView(R.layout.activity_quadrant);
+        //setContentView(R.layout.activity_quadrant);
+        setContentView(R.layout.activity_article);
     }
 }
