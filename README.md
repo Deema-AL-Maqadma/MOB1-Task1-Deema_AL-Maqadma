@@ -69,3 +69,8 @@ All tasks were developed in isolated feature branches, pushed, and merged into `
 ---
 
 ## 📸 Screenshots & Verification
+### Light Mode
+![Light Mode](light.jpeg)
+
+### Dark Mode
+![Dark Mode](dark.jpeg)
