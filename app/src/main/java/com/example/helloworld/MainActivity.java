@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //setContentView(R.layout.activity_birthday_card);
         //setContentView(R.layout.activity_task_done);
         //setContentView(R.layout.activity_quadrant);
-        setContentView(R.layout.activity_article);
+        //setContentView(R.layout.activity_article);
+        setContentView(R.layout.activity_business_card);
     }
 }
