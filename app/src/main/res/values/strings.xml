@@ -31,6 +31,6 @@
     <string name="business_name">Deema M. AL-Maqadma</string>
     <string name="business_title">Backend Developer</string>
     <string name="business_phone">+972 59 987 9617</string>
-    <string name="business_social">\'@Backend Dev'</string>
+    <string name="business_social">\@Backend Dev</string>
     <string name="business_email">dema.maqadma@gmail.com</string>
 </resources>
